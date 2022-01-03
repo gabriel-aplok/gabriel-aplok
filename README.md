@@ -19,4 +19,4 @@ O problema é que não tenho muitas ideias. <img alt="Um emote pensativo fazendo
 
 Atualmente, estou trabalhando na [LightTeam Software](#).
 
-![](https://github.com/JavkhlanK/JavkhlanK-backend/blob/main/generated/overview.svg)
+![](https://github-readme-stats.vercel.app/api?username=GabrielLima459&count_private=true&include_all_commits=true&show_icons=true)
