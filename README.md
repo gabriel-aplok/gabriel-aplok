@@ -46,16 +46,13 @@ I am currently working at [KingStone Interactive](https://twitter.com/KingStoneM
   <a href="https://youtube.com/GabrielAplok">
     <img align="center" alt="twitter" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
-  <a href="https://t.me/GabrielBrabor">
+  <a href="https://t.me/GabrielAplok">
     <img align="center" alt="twitter" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/GabrielAplok">
-    <img align="center" alt="youtube" src="https://img.shields.io/badge/Youtube-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
   </a>
   <a href="https://gabrielaplok.github.io/discord/">
     <img align="center" alt="discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://play.google.com/store/apps/dev?id=8726283399583812148">
     <img align="center" alt="googleplay" src="https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white" />
   </a>
 </div>
