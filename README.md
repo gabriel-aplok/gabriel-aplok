@@ -65,4 +65,4 @@ I am currently working at [Kolpa Engine](https://github.com/KolpaEngine).
 
 ![Gabriel Aplok's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-aplok&layout=compact&theme=dark)
 
-![Gabriel Aplok's Profile View](https://komarev.com/ghpvc/?username=gabriel-aplok&color=FF4545)
+![Gabriel Aplok's Profile View](https://komarev.com/ghpvc/?username=gabriel-aplok&color=FF4545&style=for-the-badge)
