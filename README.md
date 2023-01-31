@@ -1,7 +1,5 @@
 ## Hello 👋
 
-![Gabriel Aplok](./banner_dark.png)
-
 So, you wanted to take a look at my profile. Welcome!
 
 ## Who am I 😳
