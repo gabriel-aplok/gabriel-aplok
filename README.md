@@ -19,6 +19,11 @@ That's why I'm just trying out some cool libraries or reading [docs](https://dev
 
 I am currently working at [Kolpa Engine](https://github.com/KolpaEngine).
 
+## Projects 🌲
+ - [Geometry Mathematic](https://github.com/gabriel-aplok/geo-math) (JAVA)
+ - [Component-Based system](https://github.com/gabriel-aplok/component-based-system) (JAVA)
+ - [Algebra Linear Mathematic](https://github.com/gabriel-aplok/math-linear-algebra) (JAVA)
+
 ## Skills 😎
 <div style="display: inline_block">
   <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
