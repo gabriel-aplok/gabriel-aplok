@@ -19,7 +19,7 @@ That's why I'm just trying out some cool libraries or reading [docs](https://dev
 
 I am currently working at [Kolpa Engine](https://github.com/KolpaEngine).
 
-## Projects 🌲
+## Open Source Projects 🌲
 Geometry Mathematic **(Java)**
 
 *[Repository >](https://github.com/gabriel-aplok/geo-math)*
@@ -31,6 +31,12 @@ Component-Based system **(Java)**
 Algebra Linear Mathematic **(Java)**
 
 *[Repository >](https://github.com/gabriel-aplok/math-linear-algebra)*
+
+## Personal Private Projects 🔥
+Kolpa Engine **(Java/Open GL)**
+
+*[Organization >](https://github.com/kolpa-engine)*
+*[Google Play >](https://play.google.com/store/apps/details?id=com.kolpa.engine)*
 
 ## Skills 😎
 <div style="display: inline_block">
