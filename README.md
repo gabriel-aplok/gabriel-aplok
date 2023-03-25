@@ -20,9 +20,17 @@ That's why I'm just trying out some cool libraries or reading [docs](https://dev
 I am currently working at [Kolpa Engine](https://github.com/KolpaEngine).
 
 ## Projects 🌲
- - [Geometry Mathematic](https://github.com/gabriel-aplok/geo-math) (JAVA)
- - [Component-Based system](https://github.com/gabriel-aplok/component-based-system) (JAVA)
- - [Algebra Linear Mathematic](https://github.com/gabriel-aplok/math-linear-algebra) (JAVA)
+Geometry Mathematic **(Java)**
+
+*[Repository >](https://github.com/gabriel-aplok/geo-math)*
+
+Component-Based system **(Java)**
+
+*[Repository >](https://github.com/gabriel-aplok/component-based-system)*
+
+Algebra Linear Mathematic **(Java)**
+
+*[Repository >](https://github.com/gabriel-aplok/math-linear-algebra)*
 
 ## Skills 😎
 <div style="display: inline_block">
