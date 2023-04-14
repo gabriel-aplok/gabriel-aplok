@@ -4,7 +4,7 @@ So, you wanted to take a look at my profile. Welcome!
 
 ## Who am I 😳
 
-My name is Gabriel (*awesome, right?*) and I'm an amateur programmer, or just someone who likes to tinker with technology.
+My name is Gabriel (_*awesome, right?*_) and I'm an hobbyist developer, or just someone who likes to tinker with technology.
 
 My main language is Brazilian Portuguese, but on the internet I often use English.
 
@@ -12,29 +12,35 @@ My main language is Brazilian Portuguese, but on the internet I often use Englis
 
 I really like [Android](https://android.com), that's why I work on projects that run on it/with it often.
 
-I always wanted to create my own app, with a unique idea, or at least a unique design.
+I always wanted to create my own app or game, with a unique idea, or at least a unique design.
 
 The problem is, I don't have many ideas. 😔
 That's why I'm just trying out some cool libraries or reading [docs](https://developer.android.com).
 
 I am currently working at [Kolpa Engine](https://github.com/KolpaEngine).
 
-## Open Source Projects 🌲
-Geometry Mathematic **(Java)**
+## More about me
+<details>
+	<summary>
+	See this now!
+	</summary>
+	<p>
+		
+	</p>
+</details>
 
+## Open Source Projects 🌨
+Geometry Mathematic **(Java)** <br>
 *[Repository >](https://github.com/gabriel-aplok/geo-math)*
 
-Component-Based system **(Java)**
-
+Component-Based system **(Java)** <br>
 *[Repository >](https://github.com/gabriel-aplok/component-based-system)*
 
-Algebra Linear Mathematic **(Java)**
-
+Algebra Linear Mathematic **(Java)** <br>
 *[Repository >](https://github.com/gabriel-aplok/math-linear-algebra)*
 
 ## Personal Private Projects 🔥
-Kolpa Engine **(Java/Open GL)**
-
+Kolpa Engine **(Java/Open GL)** <br>
 *[Organization >](https://github.com/kolpa-engine)*
 *[Google Play >](https://play.google.com/store/apps/details?id=com.kolpa.engine)*
 
