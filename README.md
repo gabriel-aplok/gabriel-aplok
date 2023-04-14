@@ -114,12 +114,8 @@ Kolpa Engine **(Java/Open GL)** <br>
 </div>
 
 ## My Github stats 😼
-<center>
-
 ![Gabriel Aplok's Github stats](https://github-readme-stats.vercel.app/api?username=gabriel-aplok&show_icons=true&theme=dark)
 
 ![Gabriel Aplok's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-aplok&layout=compact&theme=dark)
 
 ![Gabriel Aplok's Profile View](https://komarev.com/ghpvc/?username=gabriel-aplok&color=FF4545&style=for-the-badge)
-
-</center>
