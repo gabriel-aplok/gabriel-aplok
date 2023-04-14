@@ -30,11 +30,11 @@ I am currently working at [Kolpa Engine](https://github.com/KolpaEngine).
 </details>
 
 ## Open Source Projects 🌨
-Geometry Mathematic **(Java)** <br>
-*[Repository >](https://github.com/gabriel-aplok/geo-math)*
-
 Component-Based system **(Java)** <br>
 *[Repository >](https://github.com/gabriel-aplok/component-based-system)*
+
+Geometry Mathematic **(Java)** <br>
+*[Repository >](https://github.com/gabriel-aplok/geo-math)*
 
 Algebra Linear Mathematic **(Java)** <br>
 *[Repository >](https://github.com/gabriel-aplok/math-linear-algebra)*
