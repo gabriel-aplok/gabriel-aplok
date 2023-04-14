@@ -19,13 +19,83 @@ That's why I'm just trying out some cool libraries or reading [docs](https://dev
 
 I am currently working at [Kolpa Engine](https://github.com/KolpaEngine).
 
-## More about me
-<details>
-	<summary>
-	See this now!
-	</summary>
+## More about me ❤️
+<details style="padding: 0.4em;">
+	<summary>If you want to know me (Click here).</summary>
+	<h1>Introduction</h1>
 	<p>
-		Ta certo
+		Hello there! My name is Gabriel L. Bezerra, and I am a young, enthusiastic teenager with a passion for programming,
+		game development, and design. Ever since I was a child, I have been fascinated by the world of technology and its
+		endless possibilities. Over the years, I have honed my skills and gained experience in various fields related to
+		programming, game development, and design. In this document, I will provide you with an overview of my skills,
+		experience, and achievements so far.
+	</p>
+	<h1>Skills</h1>
+	<h3>Programing</h3>
+	<p>
+		I am an experienced programmer proficient in several programming languages, including:
+	</p>
+	<ul>
+		<li>JavaScript (Since 2018)</li>
+		<li>Java (Since 2018)</li>
+		<li>Koltlin (Studying)</li>
+		<li>PHP (Since 2020)</li>
+		<li>C# (Since 2021)</li>
+		<li>C++ (Studying)</li>
+		<li>Lua (Since 2022)</li>
+		<li>Python (Since 2023)</li>
+		<li>Shell Script (Basic Knowledge)</li>
+		<li>TypeScript (Studying)</li>
+		<li>GDScript (Since 2023)</li>
+	</ul>
+	<p>
+		I have experience in developing both frontend and backend applications, and I have worked on several projects
+		involving web development, game development, and mobile app development. I am also familiar with various
+		frameworks and libraries, such as React, Node.js, Godot, and OpenGL.
+	</p>
+	<h3>Game Development</h3>
+	<p>
+		Game development is one of my biggest passions, and I have been developing games for several years now.
+		I have experience in developing games for various platforms, including PC, mobile. I am proficient in
+		using game engines such as Godot and Unity, and I have experience in developing both 2D and 3D games.
+		Some of the games I have developed include Groundead, Noises, and Hotel 208.
+	</p>
+	<h3>Design</h3>
+	<p>
+		I have a keen eye for design, and I have experience in creating various types of designs, including:
+	</p>
+	<ul>
+		<li>User interface (UI) design</li>
+		<li>User experience (UX) design</li>
+		<li>Logo design</li>
+		<li>Illustrations</li>
+		<li>Animations</li>
+	</ul>
+	<p>
+		I am amateur in using design software such as PixelLab and PS Touch,
+		and I have created designs for various projects, including games, websites, and mobile apps.
+	</p>
+	<h3>Experience</h3>
+	<h4>PiroCat Games, Internship</h4>
+	<p>
+		During my 2021 summer break, I had the opportunity to intern at PiroCat Games, a leading game
+		development company. During my internship, I worked on several projects, including developing
+		new features for an existing game, and creating a prototype for a new game. I also gained
+		experience in working in a team and collaborating with other developers, artists, and designers.
+	</p>
+	<h4>KingStone Interactive, Personal Project</h4>
+	<p>
+		One of my most significant achievements so far has been the development of Groundead,
+		a 2D shooter top-down game. I developed this game using Godot and GDScript, and it
+		is available on Steam, Itch, and Google Play. The game has received positive
+		reviews and has been downloaded over 100,5k times.
+	</p>
+	<h3>Conclusion</h3>
+	<p>
+		Thank you for taking the time to read about me and my skills, experience,
+		and achievements so far. I am always looking for new opportunities to
+		learn and grow as a programmer, game developer, and designer, and I am
+		excited to see where my passion and skills will take me in the future.
 	</p>
 </details>
 
