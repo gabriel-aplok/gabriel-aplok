@@ -17,7 +17,7 @@ I always wanted to create my own app or game, with a unique idea, or at least a 
 The problem is, I don't have many ideas. 😔
 That's why I'm just trying out some cool libraries or reading [docs](https://developer.android.com).
 
-I am currently working at [Kolpa Engine](https://github.com/KolpaEngine).
+I am currently working at  [FireWave Interactive](https://github.com/firewave-interactive) on [Kolpa Engine](https://github.com/KolpaEngine).
 
 ## Open Source Projects 🌨
 Component-Based system **(Java)** <br>
@@ -30,7 +30,7 @@ Algebra Linear Mathematic **(Java)** <br>
 *[Repository >](https://github.com/gabriel-aplok/math-linear-algebra)*
 
 ## Personal Private Projects 🔥
-Kolpa Engine **(Java/Open GL)** <br>
+Kolpa Engine **(Java/C++)** <br>
 *[Organization >](https://github.com/kolpa-engine)*
 *[Google Play >](https://play.google.com/store/apps/details?id=com.kolpa.engine)*
 
