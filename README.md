@@ -1,10 +1,17 @@
+---
+layout: default
+---
+
 ## Hello 👋
 
 So, you wanted to take a look at my profile. Welcome!
 
 ## Who am I 😳
 
-My name is Gabriel (_*awesome, right?*_) and I'm an hobbyist developer, or just someone who likes to tinker with technology.
+
+My name is **Gabriel Lima** and I'm a full-stack, game and minecraft bedrock addon developer or just someone who likes to tinker with technology, wishing to create fun, innovative, and quality experiences!
+
+My goal is to either start my own studio or work for an established company!
 
 My main language is Brazilian Portuguese, but on the internet I often use English.
 
@@ -20,7 +27,11 @@ That's why I'm just trying out some cool libraries or reading [docs](https://dev
 I am currently working at  [FireWave Interactive](https://github.com/firewave-interactive) on [Kolpa Engine](https://github.com/KolpaEngine).
 
 ## Open Source Projects 🌨
-Component-Based system **(Java)** <br>
+
+LOTUS.css **(SCSS)** <br>
+*[Repository >](https://github.com/gabriel-aplok/lotus-css)* | *[Website >](https://gabriel-aplok.com/lotus-css/)*
+
+Component-Based System **(Java)** <br>
 *[Repository >](https://github.com/gabriel-aplok/component-based-system)*
 
 Geometry Mathematic **(Java)** <br>
@@ -30,7 +41,7 @@ Algebra Linear Mathematic **(Java)** <br>
 *[Repository >](https://github.com/gabriel-aplok/math-linear-algebra)*
 
 ## Personal Private Projects 🔥
-Kolpa Engine **(Java/C++)** <br>
+Kolpa Engine **(Java/C++/Android)** <br>
 *[Organization >](https://github.com/kolpa-engine)*
 *[Google Play >](https://play.google.com/store/apps/details?id=com.kolpa.engine)*
 
@@ -46,13 +57,12 @@ Kolpa Engine **(Java/C++)** <br>
   <img alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img alt="c#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img alt="lua" src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" />
-  <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <!--img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /-->
   <img alt="shell_script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <!--img alt="typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /-->
   <img alt="unity" src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
   <img alt="firebase" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
   <img alt="mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="sqlite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img alt="blender" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" />
@@ -100,12 +110,12 @@ Kolpa Engine **(Java/C++)** <br>
   <a href="https://gabriel-aplok.itch.io">
     <img alt="itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />
   </a>
-  <a href="mailto:gabrielaplok.contact@gmail.com">
+  <a href="mailto:contact@gabriel-aplok.com">
     <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
-## My Github stats 😼
+## My Github Stats 😼
 ![Gabriel Aplok's Github stats](https://github-readme-stats.vercel.app/api?username=gabriel-aplok&show_icons=true&theme=dark)
 
 ![Gabriel Aplok's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-aplok&layout=compact&theme=dark)
