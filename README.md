@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Hello 👋
 
 So, you wanted to take a look at my profile. Welcome!
