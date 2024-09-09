@@ -4,7 +4,6 @@ So, you wanted to take a look at my profile. Welcome!
 
 ## Who am I 😳
 
-
 My name is **Gabriel Lima** and I'm a full-stack, game and minecraft bedrock addon developer or just someone who likes to tinker with technology, wishing to create fun, innovative, and quality experiences!
 
 My goal is to either start my own studio or work for an established company!
@@ -20,7 +19,7 @@ I always wanted to create my own app or game, with a unique idea, or at least a 
 The problem is, I don't have many ideas. 😔
 That's why I'm just trying out some cool libraries or reading [docs](https://developer.android.com).
 
-I am currently working at  [FireWave Interactive](https://github.com/firewave-interactive) on [Kolpa Engine](https://github.com/KolpaEngine).
+I am currently working at [FireWave Interactive](https://github.com/firewave-interactive) on [Kolpa Engine](https://github.com/KolpaEngine).
 
 ## Open Source Projects 🌨
 
@@ -41,10 +40,9 @@ Kolpa Engine **(Java/C++/Android)** <br>
 *[Organization >](https://github.com/kolpa-engine)*
 *[Google Play >](https://play.google.com/store/apps/details?id=com.kolpa.engine)*
 
-## Skills 😎
+## Teck Stack 🖥️
 <div style="display: inline_block">
   <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="markdown" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
   <img alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img alt="scss" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
