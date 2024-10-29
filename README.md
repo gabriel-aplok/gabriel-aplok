@@ -34,7 +34,7 @@ I am currently working at [FireWave Interactive](https://github.com/firewave-int
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img alt="BashScript" src="https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000" />
+  <img alt="BashScript" src="https://img.shields.io/badge/bash%20script-0101?style=for-the-badge&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000" />
 
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=ffca28" />
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
@@ -42,6 +42,7 @@ I am currently working at [FireWave Interactive](https://github.com/firewave-int
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="SQLite" src="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql" />
+  <img alt="PlanetScale" src="https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white" />
 
   <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />
   <img alt="VueJS" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
@@ -79,10 +80,10 @@ I am currently working at [FireWave Interactive](https://github.com/firewave-int
   <a href="https://youtube.com/GabrielAplok">
     <img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
-  <a href="https://t.me/GabrielAplok">
+  <a href="https://t.me/gabrielrodryx">
     <img alt="Telegram" src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" />
   </a>
-  <a href="https://gabrielaplok.github.io/discord">
+  <a href="https://gabrielaplok.com/discord">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://play.google.com/store/apps/dev?id=8726283399583812148">
@@ -93,6 +94,9 @@ I am currently working at [FireWave Interactive](https://github.com/firewave-int
   </a>
   <a href="https://github.com/sponsors/gabriel-aplok">
     <img alt="Github Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" />
+  </a>
+  <a href="https://ko-fi.com/gabriel_aplok">
+    <img alt="Ko-Fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
   <a href="https://www.patreon.com/gabriel_aplok">
     <img alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
