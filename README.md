@@ -19,26 +19,7 @@ I always wanted to create my own app or game, with a unique idea, or at least a 
 The problem is, I don't have many ideas. 😔
 That's why I'm just trying out some cool libraries or reading [docs](https://developer.android.com).
 
-I am currently working at [FireWave Interactive](https://github.com/firewave-interactive) on [Kolpa Engine](https://github.com/KolpaEngine).
-
-## Open Source Projects 🌨
-
-LOTUS.css **(SCSS)** <br>
-*[Repository >](https://github.com/gabriel-aplok/lotus-css)* | *[Website >](https://gabriel-aplok.com/lotus-css/)*
-
-Component-Based System **(Java)** <br>
-*[Repository >](https://github.com/gabriel-aplok/component-based-system)*
-
-Geometry Mathematic **(Java)** <br>
-*[Repository >](https://github.com/gabriel-aplok/geo-math)*
-
-Algebra Linear Mathematic **(Java)** <br>
-*[Repository >](https://github.com/gabriel-aplok/math-linear-algebra)*
-
-## Personal Private Projects 🔥
-Kolpa Engine **(Java/C++/Android)** <br>
-*[Organization >](https://github.com/kolpa-engine)*
-*[Google Play >](https://play.google.com/store/apps/details?id=com.kolpa.engine)*
+I am currently working at [FireWave Interactive](https://github.com/firewave-interactive) on [Kolpa Engine](https://github.com/kolpa-engine).
 
 ## Teck Stack 🖥️
 <div style="display: inline_block">
@@ -55,7 +36,7 @@ Kolpa Engine **(Java/C++/Android)** <br>
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="BashScript" src="https://img.shields.io/badge/bash%20script-0101?style=flat&logo=gnubash&logoColor=%23FFFFFF&labelColor=%23000000" />
 
-  <img alt="Firebase" src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=firebase&logoColor=ffca28" />
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=ffca28" />
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img alt="MariaDB" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -130,3 +111,4 @@ Kolpa Engine **(Java/C++/Android)** <br>
 ![Gabriel Aplok's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-aplok&layout=compact&theme=dark)
 
 ![Gabriel Aplok's Profile View](https://komarev.com/ghpvc/?username=gabriel-aplok&color=FF4545&style=for-the-badge)
+
