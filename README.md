@@ -115,9 +115,8 @@ I am currently working at [FireWave Interactive](https://github.com/firewave-int
 </div>
 
 ## My Github Stats 😼
-![Gabriel Aplok's Github stats](https://github-readme-stats.vercel.app/api?username=gabriel-aplok&show_icons=true&theme=dark)
+![](https://github.com/gabriel-aplok/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
+![](https://github.com/gabriel-aplok/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
 
-![Gabriel Aplok's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-aplok&layout=compact&theme=dark)
-
-![Gabriel Aplok's Profile View](https://komarev.com/ghpvc/?username=gabriel-aplok&color=FF4545&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=gabriel-aplok&color=FF4545&style=for-the-badge)
 
