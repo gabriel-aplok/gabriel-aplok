@@ -1,4 +1,4 @@
-# Hi there, I'm Gabriel Lima! 👋 | Full-Stack, Game Developer & Tech Tinkerer
+# Hi there, I'm Gabriel Lima! 👋
 
 Welcome to my GitHub profile. I'm a **passionate full-stack developer and minecraft mod developer** dedicated to crafting innovative, high-quality, and enjoyable experiences. My journey spans from scalable web applications to immersive game development and Minecraft mods and add-ons.
 
@@ -128,17 +128,11 @@ I am open to discussing new opportunities, collaborations, or innovative project
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-aplok&show_icons=true&theme=dark" alt="Overview" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=gabriel-aplok&show_icons=true&theme=dark" alt="Overview" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-aplok&layout=compact&theme=dark" alt="Languages" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-aplok&layout=compact&theme=dark" alt="Languages" />
 </div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gabriel-aplok&color=FF4545&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<br>
-
-<p align="right">
-  <img src="https://media.tenor.com/qiMsFYfPu-wAAAAi/anime-hello.gif" alt="Profile Views" />
 </p>
