@@ -136,3 +136,9 @@ I am open to discussing new opportunities, collaborations, or innovative project
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gabriel-aplok&color=FF4545&style=for-the-badge" alt="Profile Views" />
 </p>
+
+<br>
+
+<p align="right">
+  <img src="https://media.tenor.com/qiMsFYfPu-wAAAAi/anime-hello.gif" alt="Profile Views" />
+</p>
