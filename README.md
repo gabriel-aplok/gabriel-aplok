@@ -1,19 +1,29 @@
-# Hi there, I'm Gabriel Lima! 👋
+# Hi there, I'm Gabriel Lima! 👋 | Full-Stack, Game Developer & Tech Tinkerer
 
-Welcome to my GitHub profile. I'm a passionate full-stack developer, game developer & minecraft bedrock addon creator, and a technology tinkerer dedicated to building fun, innovative, and high-quality experiences. My dream is to launch my own studio or collaborate with a leading company.
+Welcome to my GitHub profile. I'm a **passionate full-stack developer and minecraft mod developer** dedicated to crafting innovative, high-quality, and enjoyable experiences. My journey spans from scalable web applications to immersive game development and Minecraft mods and add-ons.
 
----
-
-## About Me
-
-- 🔭 **Current Work:** Contributing at [FireWave Interactive](https://github.com/firewave-interactive) on the [Kolpa Engine](https://github.com/kolpa-engine).
-- 🌐 **Languages:** Native Brazilian Portuguese with extensive work in English.
-- 📱 **Interests:** Deeply passionate about Android development and experimenting with cutting-edge tech libraries.
-- 🎨 **Creative Mindset:** Combining skills in development, design, and art to craft unique projects.
+My ultimate professional goal is to **launch my own studio** or contribute my expertise in a **leading development company**.
 
 ---
 
-## Tech Stack & Tools
+## 🔭 Professional Focus
+
+* **Full-Stack Development (Back-End Priority):** I excel at building **robust, scalable back-end systems** but love connecting them seamlessly with the user-facing front end. I see the full-stack as the ultimate way to deliver complete, high-performance solutions.
+* **Game Development:** Combining creative design and technical skills to develop engaging interactive experiences.
+* **Multiplatform Development:** Dedicated to developing applications that function flawlessly across **multiple operating systems and devices**.
+* **Technology Exploration (Continuous Learning):** I am driven by a constant curiosity to experiment with new libraries and cutting-edge tech. I genuinely **love learning any new programming language** or framework that solves a complex problem, and I often seek to build my own solutions, a commitment that demonstrates a deep mastery beyond simple usage.
+* **Creative Mindset:** I leverage my skills in development, design, and digital art to deliver unique, complete projects.
+
+### 💼 Current Work
+
+* **FireWave Interactive:** Contributing to the development of the open-source [Kolpa Engine](https://github.com/kolpa-engine) at [FireWave Interactive](https://github.com/firewave-interactive).
+* **Specialty:** Deeply passionate about **Android development** and developing high-performance mobile solutions.
+
+---
+
+## 🛠️ Tech Stack & Core Competencies
+
+My skillset is broad, allowing me to be highly versatile across the stack and in different development environments.
 
 <div align="center">
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -52,7 +62,9 @@ Welcome to my GitHub profile. I'm a passionate full-stack developer, game develo
 
 ---
 
-## Interests & Learning
+## 🚀 Exploring New Horizons
+
+I am actively expanding my capabilities in the following areas to broaden my development versatility:
 
 <div align="center">
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -64,14 +76,13 @@ Welcome to my GitHub profile. I'm a passionate full-stack developer, game develo
 
 ---
 
-## Let's Connect
+## 🗣️ Let's Connect
+
+I am open to discussing new opportunities, collaborations, or innovative projects. Feel free to connect with me!
 
 <div align="center">
   <a href="https://instagram.com/gabriel__yeah">
     <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.threads.net/@gabriel__yeah">
-    <img alt="Threads" src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" />
   </a>
   <a href="https://x.com/GabrielAplok">
     <img alt="X" src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x" />
@@ -79,10 +90,7 @@ Welcome to my GitHub profile. I'm a passionate full-stack developer, game develo
   <a href="https://youtube.com/GabrielAplok">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
-  <a href="https://t.me/gabrielrodryx">
-    <img alt="Telegram" src="https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0" />
-  </a>
-  <a href="https://gabrielaplok.com/discord">
+  <a href="https://trenbankai.com/discord">
     <img alt="Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
   <a href="https://play.google.com/store/apps/dev?id=8726283399583812148">
@@ -91,6 +99,19 @@ Welcome to my GitHub profile. I'm a passionate full-stack developer, game develo
   <a href="https://www.linkedin.com/in/gabrielaplok">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://gabriel-aplok.itch.io">
+    <img alt="Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />
+  </a>
+  <a href="mailto:contact@trenbankai.com">
+    <img alt="GMail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+</div>
+
+---
+
+### 💸 Support My Work
+
+<div align="center">
   <a href="https://github.com/sponsors/gabriel-aplok">
     <img alt="GitHub Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" />
   </a>
@@ -100,21 +121,16 @@ Welcome to my GitHub profile. I'm a passionate full-stack developer, game develo
   <a href="https://www.patreon.com/gabriel_aplok">
     <img alt="Patreon" src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white" />
   </a>
-  <a href="https://gabriel-aplok.itch.io">
-    <img alt="Itch.io" src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white" />
-  </a>
-  <a href="mailto:contact@gabriel-aplok.com">
-    <img alt="GMail" src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
 </div>
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github.com/gabriel-aplok/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" alt="Overview" />
-  <img src="https://github.com/gabriel-aplok/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gabriel-aplok&show_icons=true&theme=dark" alt="Overview" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriel-aplok&layout=compact&theme=dark" alt="Languages" />
 </div>
 
 <p align="center">
