@@ -3,7 +3,7 @@
 ![hey](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw4MmtuMTFuOTNhMW1rMHp6bG9vdThkMjFqZzJnemx3M2Vyem0yMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dw36yjtOAtuSZyxEJG/giphy.gif)
 
 full-stack developer, game developer, and minecraft modding.  
-building scalable, multiplatform applications with clean architecture and strong performance.
+building games, multiplatform softwares and always learning random stuff.
 
 **goal: launch my own studio or contribute to a top-tier development team.**
 
