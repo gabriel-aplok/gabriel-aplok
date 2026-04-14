@@ -8,28 +8,37 @@ building games, multiplatform softwares and always learning random stuff.
 **goal: launch my own studio or contribute to a top-tier development team.**
 
 ## currently working on
- - [kolpa Engine](https://github.com/kolpa-engine) - open-source game engine
+ - [kolpa Engine](https://github.com/kolpa-engine) - personal game engine
  - [firewave interactive](https://github.com/firewave-interactive) - games, mods and tools
 
 ## teck stack
 
 **core**  
- - `java - kotlin - typescript - javascript - pthon - php - c - c++ - c#`
+ - `java - kotlin - typescript - javascript - php - c - c++ - c#`
 
 **frontend / frameworks**  
- - `next.js - nuxt.js - vue.js - vite.js - react - html / css`
+ - `astro.js - vite.js - html - css`
 
 **backend / databases**  
- - `node.js/bun - express - sequelize - drizzleorm - mysql - postgresql - firebase - supabase`
+ - `node - express - mysql - postgresql - firebase - supabase`
 
-**mobile & game dev**  
- - `android (kotlin/java) - godot - opengl`
+**mobile**  
+ - `android (kotlin/java)`
+
+**game dev**  
+ - `godot - opengl - raylib - rgfw - glfw - sdl2`
 
 **tools & others**  
  - `git - linux - android studio - intelliJ - vs code - vs 22`
 
 **learning / exploring**  
- - `c / c++ - c# - react native - vulkan`
+ - `vulkan - compose (KMP)`
+
+**techs I love**
+ - `java - php - opengl - linux - godot`
+
+**techs I know but don't like to use**
+ - `react - python`
 
 ## contact & links
 
