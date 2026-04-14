@@ -2,7 +2,7 @@
 
 ![hey](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw4MmtuMTFuOTNhMW1rMHp6bG9vdThkMjFqZzJnemx3M2Vyem0yMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dw36yjtOAtuSZyxEJG/giphy.gif)
 
-full-stack developer, game developer, and minecraft modding.  
+graphics programmer, game developer, and minecraft modding.  
 building games, multiplatform softwares and always learning random stuff.
 
 **goal: launch my own studio or contribute to a top-tier development team.**
@@ -29,13 +29,13 @@ building games, multiplatform softwares and always learning random stuff.
  - `godot - opengl - raylib - rgfw - glfw - sdl2`
 
 **tools & others**  
- - `git - linux - android studio - intelliJ - vs code - vs 22`
+ - `git - linux - android studio - intelliJ - vs code - vs 22 - cmake - premake - makefile`
 
 **learning / exploring**  
  - `vulkan - compose (KMP)`
 
 **techs I love**
- - `java - php - opengl - linux - godot`
+ - `java - php - c - c# - opengl - linux - godot`
 
 **techs I know but don't like to use**
  - `react - python`
