@@ -1,7 +1,5 @@
 # yooo
 
-![hey](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw4MmtuMTFuOTNhMW1rMHp6bG9vdThkMjFqZzJnemx3M2Vyem0yMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dw36yjtOAtuSZyxEJG/giphy.gif)
-
 graphics programmer, game developer, and minecraft modding.  
 building games, multiplatform softwares and always learning random stuff.
 
@@ -40,12 +38,16 @@ building games, multiplatform softwares and always learning random stuff.
 **techs I know but don't like to use**
  - `react - python`
 
-## contact & links
+## links
 
-- [contact](mailto:contact@trenbankai.com)
 - [youtube](https://www.youtube.com/GabrielAplok)
 - [x / twitter](https://x.com/GabrielAplok)
-- [linkedin](https://www.linkedin.com/in/gabrielaplok)
 - [itch.io](https://gabriel-aplok.itch.io)
+
+<div align="center">
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=gabriel-aplok&theme=dark&hide_border=true&short_numbers=true)](https://git.io/streak-stats)
+
+</div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gabriel-aplok&color=FF4545&style=for-the-badge)
