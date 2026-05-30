@@ -1,6 +1,4 @@
 ```c
-#include <stdio.h>
-
 typedef struct {
     const char* name;
     const char* email;
