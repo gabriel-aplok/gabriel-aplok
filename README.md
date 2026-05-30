@@ -1,4 +1,6 @@
 ```c
+#include <stdio.h>
+
 typedef struct {
     const char* name;
     const char* email;
@@ -7,8 +9,8 @@ typedef struct {
 
 typedef struct {
     About about;
-    const char* languages[2];
-    const char* tech[8];
+    const char* languages[8];
+    const char* tech[6];
 } Developer;
 
 Developer developer = {
