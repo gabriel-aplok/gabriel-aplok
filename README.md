@@ -19,8 +19,7 @@ if you want to see my serious projects, [here u go](https://github.com/gabriel-a
 - **mobile:** android (kotlin/java/c#)
 - **tools & os:** linux, git, cmake, android studio, intellij
 
-*currently exploring:* vulkan & compose (kmp)
-*(pls don't ask me to write react or python)*
+*currently exploring:* vulkan and d3d12
 
 ## links
 
