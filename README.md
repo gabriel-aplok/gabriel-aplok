@@ -1,10 +1,11 @@
-# yooo
+# ayo dev
 
-graphics programmer, game developer, and minecraft modder, and always learning random stuff.
+self-taught graphics programmer, game and tools developer, and minecraft modder,
+I work as a gym instructor, and in my free time, I earn money by creating minecraft mods. I am also heavily involved in projects intended to become open-source in the future, such as graphics libraries and projects related to UIs, graphics, physics, and game development in general. I have a broad range of knowledge across various fields cause I’m always exploring anything lol. I genuinely love creating things. so I am focuse don finishing my game engine and my dream game.
 
-**goal:** launch my own studio or contribute to a top-tier development team.
+**goal:** launch my own game and contribute to FOSS community with my own projects.
 
-if you want to see my serious projects, [here u go](https://github.com/gabriel-aplok/gabriel-aplok/blob/main/PROJECTS.md).
+if you want to see my serious projects, [here we go](https://github.com/gabriel-aplok/gabriel-aplok/blob/main/PROJECTS.md).
 
 ## currently working on
 
@@ -13,13 +14,13 @@ if you want to see my serious projects, [here u go](https://github.com/gabriel-a
 
 ## stack
 
-- **languages:** java, kotlin, c, c++, c#, ts/js, php
-- **gamedev & graphics:** godot, unity, opengl, vulkan, d3d11
-- **web & backend:** astro, express, next, nuxt, node, mysql, postgresql, firebase
-- **mobile:** android (kotlin/java/c#)
-- **tools & os:** linux, git, cmake, android studio, intellij
+- **languages:** c, c++, zig, c#, java, ts/js and php
+- **gamedev & graphics:** opengl, vulkan, d3d11, raylib, godot and unity 
+- **web & backend:** react, expressjs, nextjs, nuxtjs, node, mysql, postgresql, firebase
+- **mobile:** android (java)
+- **tools & os:** linux (yea, windows too), git, cmake, make, intellij, vscode and zed
 
-*currently exploring:* vulkan and d3d12
+*currently exploring:* vulkan and d3d12 for my graphics RHI
 
 ## links
 
