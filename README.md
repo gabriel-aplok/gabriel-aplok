@@ -15,7 +15,7 @@ if you want to see my serious projects, [here we go](https://github.com/gabriel-
 ## stack
 
 - **languages:** c, c++, zig, c#, java, ts/js and php
-- **gamedev & graphics:** opengl, vulkan, d3d11, raylib, godot and unity 
+- **gamedev & graphics:** opengl, vulkan, d3d12, raylib, godot and unity 
 - **web & backend:** react, expressjs, nextjs, nuxtjs, node, mysql, postgresql, firebase
 - **mobile:** android (java)
 - **tools & os:** linux (yea, windows too), git, cmake, make, intellij, vscode and zed
