@@ -1,7 +1,8 @@
 # yoo
 
-self-taught graphics programmer, game and tools developer, and minecraft modder,
-I work as a gym instructor, and in my free time, I earn money by creating minecraft mods. I am also heavily involved in projects intended to become open-source in the future, such as graphics libraries and projects related to UIs, graphics, physics, and game development in general. I have a broad range of knowledge across various fields cause I’m always exploring anything lol. I genuinely love creating things. so I am focuse don finishing my game engine and my dream game.
+self-taught graphics programmer, game and tools developer, and minecraft modder.
+
+I work as a gym instructor, and in my free time, I do minecraft mods. I am also heavily involved in projects intended to become open-source in the future, such as graphics libraries and projects related to UIs, graphics, physics, and game development in general. I have a broad range of knowledge across various fields cause I’m always exploring anything lol, but focused on tools to help developers. I genuinely love creating things. so I am focused on finishing my game engine and my dream game.
 
 **goal:** launch my own game and contribute to open source community with my own projects.
 
