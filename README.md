@@ -10,6 +10,7 @@ if you want to see my serious projects, [here we go](https://github.com/gabriel-
 
 ## currently working on
 
+- [kine engine](https://github.com/kine-engine) - game engine ecosystem mad ewith pure c and a clean architecture.
 - [kolpa engine](https://github.com/kolpa-engine) - personal game engine/framework
 - [firewave interactive](https://github.com/firewave-interactive) - games, mods, and tools
 
