@@ -8,7 +8,7 @@ if you want to see my serious projects, [here we go](https://github.com/gabriel-
 
 ## currently working on
 
-- [kine engine](https://github.com/kine-engine) - game engine entirely in C23.
+- [kine engine](https://github.com/kine-engine) -game engine/framework entirely in C23.
 - [kolpa engine](https://github.com/kolpa-engine) - game engine/framework in C++ and C#
 - [firewave interactive](https://github.com/firewave-interactive) - my "team"
 
