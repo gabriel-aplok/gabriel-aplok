@@ -1,6 +1,6 @@
 # hello
 
-self-taught graphics programmer, game and tools developer, and minecraft modder, my goal to launch my own game and contribute to open source community with my own projects.
+self-taught graphics programmer, the "everything developer guy", and minecraft modder, my goal to launch my own game and contribute to open source community with my own projects.
 
 <!--if you want to see my serious projects, [here we go](https://github.com/gabriel-aplok/gabriel-aplok/blob/main/PROJECTS.md).
 
