@@ -12,12 +12,12 @@ self-taught graphics programmer, the "everything developer guy", and minecraft m
 
 ## stack
 
-- **languages:** c, c++, c#, java/kotlin, typescript/javascript and php
-- **graphics:** opengl, vulkan, d3d12, raylib, sdl3. godot and unity
-- **web & backend:** react, expressjs, nextjs, nuxtjs, node, mysql, postgresql, firebase
+- **languages:** c, c++, c#, java/kotlin, ts/js and php
+- **graphics:** opengl, vulkan, d3d11, sdl, raylib. godot and unity
+- **web & backend:** react, vue, rest api, node, mysql, postgresql.
 - **mobile:** android (java, kotlin and compose)
 
-*currently exploring:* vulkan and d3d12 for my graphics RHI
+*currently exploring:* vulkan and d3d12 for my personal game engine.
 
 <!--
 ## links
