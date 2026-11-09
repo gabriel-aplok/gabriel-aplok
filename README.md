@@ -12,12 +12,12 @@ self-taught graphics programmer, the "everything developer guy", and minecraft m
 
 ## stack
 
-- **languages:** c, c++, zig, c#, java/kotlin, ts/js and php
+- **languages:** c, c++, c#, java/kotlin, ts/js and php
 - **graphics:** opengl, vulkan, d3d11, sdl, raylib. godot and unity
 - **web & backend:** react, vue, rest api, node, mysql, postgresql.
 - **mobile:** android (java, kotlin and compose)
 
-*currently exploring:* vulkan and d3d12 for my personal game engine.
+*currently exploring:* a bit of rust and zig to knwo the modern things lol, and vulkan and d3d12 for my personal game engine.
 
 <!--
 ## links
